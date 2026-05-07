@@ -1,6 +1,6 @@
 import numpy as np
 
-x = 1 + 2 + np.int(3)
+x = 1 + 3 + np.int(3)
 
 print(x)
 
